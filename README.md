@@ -25,7 +25,7 @@ Part I: Arithmetic basis of UNI
 Part II: Application of UNI to natural numbers, prime numbers, and Riemann zeros
 
 All results presented are fully reproducible. The Python script is documented and allows any reader to reproduce the calculations, modify parameters, and independently verify the results. The document UNI (Unity Normalization Interface) and the Python scripts (ARI.py, ANA.py) are available on GitHub at the following address:
-https://github.com/Dagobah369/Dagobah369-UNI-Unity-Normalization-Interface 
+https://github.com/Dagobah369/UNI-Unit-Normalizazed-information 
 
 It should be noted that the zeros6.txt file (Odlyzko) serves only as an independent external comparison and that no external information affects the autonomous generation.
 https://www-users.cse.umn.edu/~odlyzko/zeta_tables/ 
